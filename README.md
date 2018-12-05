@@ -21,3 +21,6 @@
 - [python-sc2: SC2 Bot API](https://github.com/Dentosal/python-sc2)
 - [pysc2-replay: 
 Framework for inspecting actions and observatinos in StarCraftII replays.](https://github.com/narhen/pysc2-replay)
+
+# Engines
+- [ProBO Engine](http://www.proboengine.com/About.aspx)
