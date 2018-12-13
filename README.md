@@ -4,6 +4,7 @@
 - [State of the Art and Open Challenges in RTS Game AI and Starcraft](http://thesai.org/Downloads/Volume8No12/Paper_3-State_of_the_Art_and_Open_Challenges_in_RTS_Game.pdf)
 - [Capture the flag: cooperative agents from Deepmind](https://deepmind.com/blog/capture-the-flag/)
 - [Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)
+- [TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game](https://arxiv.org/abs/1809.07193)
 ## Libratus
 - [Video explanation](https://www.youtube.com/watch?v=2dX0lwaQRX0)
 - [Subgame solving](https://www.cs.cmu.edu/~noamb/papers/17-arXiv-Subgame.pdf)
