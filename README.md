@@ -25,3 +25,5 @@ Framework for inspecting actions and observatinos in StarCraftII replays.](https
 
 # Engines
 - [ProBO Engine](http://www.proboengine.com/About.aspx)
+- [UAlbertaBot](https://github.com/davechurchill/ualbertabot): TStarBot 2, which uses a hierarchical action structure, is based on this.
+- [CommandCenter](https://github.com/davechurchill/commandcenter): UAlbertaBot's successor.
